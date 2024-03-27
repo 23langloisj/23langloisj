@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Jake 👋
+
 
 I'm a first-year Computer Science and Math student at Northeastern University
 
