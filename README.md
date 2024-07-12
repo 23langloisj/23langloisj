@@ -9,7 +9,5 @@
 🔍 Find me at https://www.linkedin.com/in/jacob-langlois/ and https://www.jakelanglois.com
 
 
-![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=23langloisj&show_icons=true&theme=transparent)
-
 
 
