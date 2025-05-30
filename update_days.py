@@ -1,7 +1,7 @@
 from datetime import datetime
 
 # Set your Ender Dragon kill date here:
-last_kill = datetime(2025, 5, 1)
+last_kill = datetime(2025, 5, 9)
 
 today = datetime.utcnow()
 days_since = (today - last_kill).days
