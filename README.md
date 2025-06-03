@@ -59,4 +59,4 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=flat&logo=intellij-idea)
 
-> Always building. Always learning. Always down to collaborate. 🚀
+> just when you think no food could EVER call you.... bang! onion rings 🧅📞
