@@ -6,7 +6,7 @@
 📬 langlois.j@northeastern.edu  
 👋 In my free time I like playing sports 🏊 ⚽︎ 🏌, doing math 📊, playing minecraft 🎮, and laughing with friends 😄
 
-*Fun fact of the day:*
+*Fun fact:*
 <!--DRAGON-->
 🐉 It's been **25 days** since I last killed the Ender Dragon.
 
