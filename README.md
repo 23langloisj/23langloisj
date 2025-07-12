@@ -15,10 +15,10 @@
 ## 💼 Experience
 
 **➡️ Current**  
-- 🌱 SWE Co-op @ Smartleaf  
 - 🪏 Software Developer @ Sandbox  
 
 **⬅️ Previous**  
+- 🌱 SWE Co-op @ Smartleaf  
 - 🔐 SWE Intern @ SEI at CMU  
 - 🍎 TA for DS3000 (Foundations of Data Science)
 
