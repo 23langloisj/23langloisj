@@ -11,12 +11,24 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Platane/snk/gh-pages@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: 23langloisj
-          target_branch: output
           outputs: |
-            github-snake.svg
-            github-snake-dark.svg?palette=github-dark
+            /tmp/github-snake.svg
+            /tmp/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push snake to output branch
+        run: |
+          mkdir snake
+          cp /tmp/github-snake.svg snake/
+          cp /tmp/github-snake-dark.svg snake/
+          cd snake
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "🐍 Update contribution snake"
+          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/23langloisj/23langloisj.git HEAD:output
