@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-langlois.j%40northeastern.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:langlois.j@northeastern.edu)
 ![Profile Views](https://komarev.com/ghpvc/?username=23langloisj&color=6AD3F7&style=flat&label=visitors)
 
-🏊 ⚽ 🏌️ sports nerd &nbsp;·&nbsp; 📊 math brain &nbsp;·&nbsp; 🎮 minecraft player &nbsp;·&nbsp; 😄 lover of laughs
+🏊 ⚽ 🏌️ sports &nbsp;·&nbsp; 📊 math &nbsp;·&nbsp; 🎮 minecraft &nbsp;·&nbsp; 😄 friendship
 
 </div>
 
@@ -35,7 +35,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=23langloisj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23langloisj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=23langloisj&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
