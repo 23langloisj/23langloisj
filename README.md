@@ -1,10 +1,17 @@
-# 👋 Hey, I'm Jake Langlois
+<div align="center">
 
-🎓 CS + Math @ Northeastern University  
-💻 Software Engineer  
-🌐 [jakelanglois.com](https://www.jakelanglois.com) | [LinkedIn](https://www.linkedin.com/in/jacob-langlois/)  
-📬 langlois.j@northeastern.edu  
-👋 In my free time I like playing sports 🏊 ⚽︎ 🏌, doing math 📊, playing minecraft 🎮, and laughing with friends 😄
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6AD3F7&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Jake+Langlois+%F0%9F%91%8B;CS+%2B+Math+%40+Northeastern;Software+Engineer;Minecraft+enjoyer+%F0%9F%8E%AE)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-jakelanglois.com-blue?style=flat)](https://www.jakelanglois.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jacob--langlois-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-langlois/)
+[![Email](https://img.shields.io/badge/Email-langlois.j%40northeastern.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:langlois.j@northeastern.edu)
+![Profile Views](https://komarev.com/ghpvc/?username=23langloisj&color=6AD3F7&style=flat&label=visitors)
+
+🏊 ⚽ 🏌️ sports nerd &nbsp;·&nbsp; 📊 math brain &nbsp;·&nbsp; 🎮 minecraft player &nbsp;·&nbsp; 😄 lover of laughs
+
+</div>
+
+---
 
 *Fun fact:*
 <!--DRAGON-->
@@ -14,13 +21,28 @@
 
 ## 💼 Experience
 
-**➡️ Current**  
-- 🪏 Software Developer @ Sandbox  
+**➡️ Current**
+- 🪏 Software Developer @ Sandbox
 
-**⬅️ Previous**  
-- 🌱 SWE Co-op @ Smartleaf  
-- 🔐 SWE Intern @ SEI at CMU  
+**⬅️ Previous**
+- 🌱 SWE Co-op @ Smartleaf
+- 🔐 SWE Intern @ SEI at CMU
 - 🍎 TA for DS3000 (Foundations of Data Science)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=23langloisj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23langloisj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=23langloisj&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=23langloisj&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -35,7 +57,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-
 
 ### 🧰 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
@@ -58,5 +79,19 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=flat&logo=intellij-idea)
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/23langloisj/23langloisj/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/23langloisj/23langloisj/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/23langloisj/23langloisj/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
 
 > just when you think no food could EVER call you.... bang! onion rings 🧅📞
