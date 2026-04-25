@@ -22,10 +22,12 @@
 ## 💼 Experience
 
 **➡️ Current**
-- 🪏 Software Developer @ Sandbox
+- 🏌️‍♂️ Software Engineer @ [fore.tv](https://fore.tv)
+- 💸 Software Engineer Co-Op @ eMoney
+- 🪏 Tech Lead @ Sandbox
 
 **⬅️ Previous**
-- 🌱 SWE Co-op @ Smartleaf
+- 🌱 SWE Co-Op @ Smartleaf
 - 🔐 SWE Intern @ SEI at CMU
 - 🍎 TA for DS3000 (Foundations of Data Science)
 
