@@ -15,7 +15,7 @@
 
 *Fun fact:*
 <!--DRAGON-->
-🐉 It's been **457 days** since I last killed the Ender Dragon.
+🐉 It's been **458 days** since I last killed the Ender Dragon.
 
 ---
 
